@@ -1,0 +1,5 @@
+
+https://stackoverflow.com/questions/8132531/captcha-creation-for-nodejs
+https://www.npmjs.com/package/captchapng
+
+https://stackoverflow.com/questions/52165333/deprecationwarning-buffer-is-deprecated-due-to-security-and-usability-issues
